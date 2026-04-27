@@ -30,13 +30,15 @@ h1 {
 }
 
 .buttons button {
+    
     padding: 12px 25px;
     margin: 5px;
     border: none;
-    border-radius: 20px;
+    border-radius: 50px;
     font-size: 16px;
     cursor: pointer;
     transition: 0.3s;
+    
 }
 
 #start {
